@@ -1,0 +1,23 @@
+This package is intended to be a first helping hand to those who want to delve into digital image processing using Mathematica rather than Matlab or (even worse! :D) Photoshop/Gimp.
+It presents some basic functions and can be seen as a lame alternative to the Digital Image Processing package by Wolfram. I think a good deal of the code is to be upgraded, but, on 8, everything still works.
+Contents:
+-Some eyecandy functions to generate impressive images (decompositions, neonish effects etc...) by applying builtin functions to images
+-Basic statistics to compare images: focusing on the differences between images, the contrast of an image.
+-Color space transformations operating on triples; you can always try something like applying them to image data and create a new image from the result...
+
+
+License: ISC License
+Copyright (c) 2010, Riccardo Vincenzo Vincelli, 
+Universita' degli Studi di Milano Bicocca-Dipartimento di informatica, sistemistica, comunicazione (r.vincelli@campus.unimib.it)
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
